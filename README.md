@@ -212,27 +212,52 @@ OWASP Vulnerability Testing AI Analysis
 
 <div align="center">
 
-### Languages
+### Languages & Core
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,bash&perline=6" />
+
+<br>
 
 ### AI / Security
 
-![LLM](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
-![Adversarial Evaluation](https://img.shields.io/badge/Adversarial%20Evaluation-B71717?style=flat-square)
-![Cryptography](https://img.shields.io/badge/Cryptography-6f42c1?style=flat-square)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
 
-### Infrastructure & Tools
+<br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
+<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Adversarial%20Evaluation-B71717?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20Security-6f42c1?style=flat-square" />
+<img src="https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square" />
+
+<br><br>
+
+### Infrastructure & Development
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux&perline=6" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Microservices-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend%20Systems-333333?style=flat-square" />
+
+<br><br>
+
+### Security & Networking
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLmap-333333?style=flat-square" />
+
+<br><br>
+
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,windows&perline=6" />
 
 </div>
+
 
 ---
 
