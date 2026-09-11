@@ -1,211 +1,360 @@
+<div align="center">
+
 # Bottu Teja Sai
 
-**Cybersecurity · AI Security · Security Automation · Cryptography**
+### Cybersecurity · AI Security · Security Automation · Cryptography
 
-I build security systems that combine **automation, artificial intelligence, and applied cryptography**.
+**M.S. Information Technology & Management · University of North Carolina Greensboro**
 
-My work focuses on security assessment of AI and web systems, autonomous vulnerability testing, cryptographic migration, and experimental security engineering. I am currently pursuing an **M.S. in Information Technology and Management at the University of North Carolina Greensboro**.
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tejasai-bottu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)](https://www.docker.com/)
+
+</div>
 
 ---
 
-## Areas of Focus
+## Profile
 
-**AI Security**
+I build and research security systems at the intersection of **artificial intelligence, cybersecurity, automation, and cryptography**.
 
-* Adversarial evaluation of Large Language Models
-* Automated vulnerability testing
-* LLM-based security agents
+My current work focuses on **adversarial LLM evaluation, autonomous vulnerability assessment, security automation, post-quantum cryptography, and applied steganography**.
+
+I am particularly interested in turning security workflows that normally require repeated manual analysis into **reproducible, automated, and intelligent systems**.
+
+---
+
+## What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Security
+
+* LLM security assessment
+* Adversarial testing
+* Automated vulnerability discovery
+* LLM-driven security agents
 * Local-model security analysis
-* AI-assisted security reporting
+* Security report generation
 
-**Application & Infrastructure Security**
+</td>
+<td width="50%" valign="top">
 
-* Web application vulnerability assessment
-* Security tool orchestration
-* Network security
-* Automated reconnaissance and testing
+### Cybersecurity
+
+* Web application security
+* Vulnerability assessment
 * Security automation
+* Network security
+* Security-tool orchestration
+* Linux security tooling
 
-**Cryptography**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Cryptography
 
 * Applied cryptography
 * Post-quantum cryptography
-* Cryptographic algorithm discovery
+* Cryptographic discovery
 * Secure migration
-* Steganography
+* Text steganography
+* Zero-width encoding
 
-**Systems Engineering**
+</td>
+<td width="50%" valign="top">
 
-* Python-based security tooling
-* Modular architectures
-* Microservices
-* Linux
+### Engineering
+
+* Python
 * Docker
-* Networking
+* Microservices
+* Backend systems
+* Git / GitHub
+* Linux / Windows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Work
+# Selected Work
 
-### Adversarial Security Assessment of Large Language Models
+## 01 — Adversarial LLM Security Assessment
 
-**Python · LLM Security · Automated Vulnerability Testing**
+**Automated vulnerability testing for Large Language Models**
 
-Research and implementation focused on systematically evaluating LLMs through automated adversarial testing.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![LLM Security](https://img.shields.io/badge/LLM-Security-6f42c1?style=flat-square)](https://github.com/tejasai-bottu)
+[![Security](https://img.shields.io/badge/Domain-AI%20Security-critical?style=flat-square)](https://github.com/tejasai-bottu)
 
-**Repository:**
-`ADVERSARIAL-SECURITY-ASSESSMENT-OF-LARGE-LANGUAGE-MODELS-THROUGH-AUTOMATED-VULNERABILITY-TESTING`
+A research project focused on systematically evaluating Large Language Models through **automated adversarial vulnerability testing**.
 
----
+**Core direction**
 
-### Autonomous LLM-Driven Security Agent
+```text
+LLM
+ │
+ ├── Adversarial Inputs
+ │
+ ├── Automated Testing
+ │
+ ├── Vulnerability Analysis
+ │
+ └── Security Assessment
+          │
+          ▼
+     Structured Findings
+```
 
-**Python · LLMs · Vulnerability Assessment**
+**Repository**
 
-An autonomous security-testing system that combines an LLM with security tooling to automate portions of web application vulnerability assessment.
-
-The system is designed around the idea of moving from individual security-tool execution toward an **agent-driven assessment workflow**.
-
-**Repository:**
-`Autonomous-LLM-Driven-Security-Agent-for-Vulnerability-Assessment`
-
----
-
-### Dynamic Pattern-Based Text Steganography
-
-**Python · Cryptography · Steganography**
-
-A secure data-hiding system combining encryption with dynamic pattern-based encoding.
-
-The implementation explores hiding encrypted files within text while using zero-width Unicode characters as part of the encoding mechanism. The current repository describes support for AES-256-CBC encryption and encoded payloads.
-
-**Repository:**
-`Dynamic-Pattern-Based-Text-Steganography-with-Advance-Encryption`
+→ [View project](https://github.com/tejasai-bottu/ADVERSARIAL-SECURITY-ASSESSMENT-OF-LARGE-LANGUAGE-MODELS-THROUGH-AUTOMATED-VULNERABILITY-TESTING)
 
 ---
 
-### Security Testing System for No-Code / Low-Code Web Applications
+## 02 — Autonomous LLM Security Agent
 
-**Python · OWASP ZAP · Nikto · SQLmap · Gemma3**
+**LLM-driven automated vulnerability assessment**
 
-An automated vulnerability-assessment workflow designed for applications where security testing may otherwise require significant manual effort.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![LLM](https://img.shields.io/badge/LLM-Agent-412991?style=flat-square)](https://github.com/tejasai-bottu)
+[![Security Testing](https://img.shields.io/badge/Security-Automation-critical?style=flat-square)](https://github.com/tejasai-bottu)
 
-The system orchestrates multiple security tools, processes their results through a locally hosted AI model, and produces structured HTML reports intended to make findings easier to understand.
+An AI-powered security agent designed to automate portions of web application vulnerability assessment.
 
-**Repository:**
-`Security-Testing-System-for-No-Code-and-Low-Code-Web-Applications`
+The system combines **security tools + an LLM + structured analysis** to reduce repetitive testing and produce actionable findings.
+
+```text
+Target
+  │
+  ▼
+Reconnaissance
+  │
+  ▼
+Security Tools
+  │
+  ▼
+LLM Analysis
+  │
+  ▼
+Findings
+  │
+  ▼
+Security Report
+```
+
+→ [View project](https://github.com/tejasai-bottu/Autonomous-LLM-Driven-Security-Agent-for-Vulnerability-Assessment)
 
 ---
 
-### Network Simulation on Linux
+## 03 — Dynamic Pattern-Based Text Steganography
 
-**Linux · Networking · Shell**
+**Encrypted payloads hidden inside text**
 
-A lightweight Linux-based project demonstrating core networking concepts through network simulation and configuration.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Cryptography](https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square)](https://github.com/tejasai-bottu)
+[![AES-256](https://img.shields.io/badge/AES--256-CBC-333333?style=flat-square)](https://github.com/tejasai-bottu)
 
-**Repository:**
-`Network-Simulation-on-Linux`
+A text-based steganography system that combines encryption with dynamic pattern-based encoding.
+
+The repository describes hiding encrypted files—including **images, audio, video, and text**—inside text using AES-256-CBC encryption and zero-width Unicode encoding.
+
+```text
+Input File
+    │
+    ▼
+Encryption
+    │
+    ▼
+Binary / Payload
+    │
+    ▼
+Dynamic Encoding
+    │
+    ▼
+Text Carrier
+```
+
+→ [View project](https://github.com/tejasai-bottu/Dynamic-Pattern-Based-Text-Steganography-with-Advance-Encryption)
 
 ---
 
-## Research
+## 04 — Automated Security Testing for No-Code / Low-Code Applications
 
-My research interests are centered on the security implications of increasingly autonomous software systems.
+**Security-tool orchestration + local AI analysis**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-00549E?style=flat-square)](https://www.zaproxy.org/)
+[![Nikto](https://img.shields.io/badge/Nikto-Web%20Scanner-333333?style=flat-square)](https://github.com/sullo/nikto)
+[![SQLmap](https://img.shields.io/badge/SQLmap-SQL%20Testing-333333?style=flat-square)](https://sqlmap.org/)
+[![Gemma](https://img.shields.io/badge/Gemma3-Local%20LLM-4285F4?style=flat-square)](https://ai.google.dev/gemma)
+
+Automated security testing workflow for no-code and low-code web applications.
+
+The system combines multiple security tools and a local AI model to analyze results and generate structured reports.
+
+```text
+                 ┌─────────────┐
+                 │ Web Target  │
+                 └──────┬──────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+       OWASP ZAP       Nikto        SQLmap
+          │             │             │
+          └─────────────┼─────────────┘
+                        ▼
+                 Local AI Analysis
+                        │
+                        ▼
+                Structured Report
+```
+
+→ [View project](https://github.com/tejasai-bottu/Security-Testing-System-for-No-Code-and-Low-Code-Web-Applications)
+
+---
+
+# Research
 
 ### Publications
 
-**Adversarial Security Assessment of Large Language Models Through Automated Vulnerability Testing**
-*Kalinga Conference on Communication & Computing · 2026*
-
-**Autonomous LLM-Driven Security Agent**
-*International Conference on Data Engineering and Communication Technology · 2025*
-
-**Dynamic Pattern-Based Text Steganography System**
-*International Conference on Computing and Communication Technologies · 2026*
+| Year | Work                                                                                                 | Venue                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2026 | **Adversarial Security Assessment of Large Language Models Through Automated Vulnerability Testing** | Kalinga Conference on Communication & Computing                           |
+| 2025 | **Autonomous LLM-Driven Security Agent**                                                             | International Conference on Data Engineering and Communication Technology |
+| 2026 | **Dynamic Pattern-Based Text Steganography System**                                                  | International Conference on Computing and Communication Technologies      |
 
 ---
 
-## Technical Stack
+# Technical Stack
 
-| Area               | Technologies                                                             |
-| ------------------ | ------------------------------------------------------------------------ |
-| **Languages**      | Python                                                                   |
-| **AI / ML**        | LLM Integration, RAG, Adversarial Evaluation, Fine-tuning Fundamentals   |
-| **Security**       | Vulnerability Assessment, AI Security, Cryptography, Security Automation |
-| **Networking**     | Nmap, Wireshark, Network Security                                        |
-| **Infrastructure** | Docker, Linux, Windows                                                   |
-| **Development**    | Git, GitHub, Microservices, Backend Systems                              |
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+### AI / Security
+
+![LLM](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![Adversarial Evaluation](https://img.shields.io/badge/Adversarial%20Evaluation-B71717?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-6f42c1?style=flat-square)
+
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
+
+</div>
 
 ---
 
-## Engineering Approach
+# GitHub Activity
 
-I am particularly interested in security problems where traditional approaches become difficult to scale.
+<div align="center">
 
-My projects generally follow a similar direction:
+<img src="https://github-readme-stats.vercel.app/api?username=tejasai-bottu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasai-bottu&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tejasai-bottu&hide_border=true&background=FFFFFF00" height="165"/>
+
+</div>
+
+---
+
+# Engineering Direction
+
+My projects generally explore the same broader problem:
+
+> **How can security assessment become more automated, repeatable, and intelligent without removing the security engineer from the decision-making loop?**
+
+That leads to three areas I am currently exploring:
 
 ```text
-Security Problem
-      ↓
-Automated Discovery
-      ↓
-Analysis / Classification
-      ↓
-Intelligent Decision Making
-      ↓
-Action / Mitigation
-      ↓
-Structured Results
+AI Security
+     │
+     ├── Adversarial Evaluation
+     ├── LLM Security
+     └── Autonomous Security Agents
+             │
+             ▼
+Security Automation
+     │
+     ├── Tool Orchestration
+     ├── Vulnerability Assessment
+     └── Automated Reporting
+             │
+             ▼
+Applied Security
+     │
+     ├── Cryptography
+     ├── Post-Quantum Migration
+     └── Secure Systems
 ```
-
-The goal is not simply to automate individual security tools, but to explore how **multiple security capabilities can be composed into reproducible and intelligent security workflows**.
 
 ---
 
-## Education
+# Education
 
 **University of North Carolina Greensboro**
-M.S. Information Technology and Management · 2026–Present
+M.S. Information Technology & Management · 2026–Present
 
 **Velagapudi Ramakrishna Siddhartha Engineering College**
 B.Tech Information Technology · 2022–2026
 
 ---
 
-## Certifications
+# Certifications
 
-* Google — The Bits and Bytes of Computer Networking
-* Cisco — CCNA: Intro to Networks
-* IBM — Getting Started with Git and GitHub
-* Simplilearn — Kali Linux Basics
-* Udemy — Linux Commands
-* NPTEL — Joy of Computing
-* NPTEL — Social Networking
-
----
-
-## Connect
-
-**LinkedIn:** [linkedin.com/in/teja-sai-bottu](YOUR_LINKEDIN_URL)
-**Portfolio:** [tejasai-bottu.github.io](YOUR_PORTFOLIO_URL)
-**Email:** `TSBOTTU@uncg.edu`
+`Google` · The Bits and Bytes of Computer Networking
+`Cisco` · CCNA: Intro to Networks
+`IBM` · Getting Started with Git and GitHub
+`Simplilearn` · Kali Linux Basics
+`Udemy` · Linux Commands
+`NPTEL` · Joy of Computing
+`NPTEL` · Social Networking
 
 ---
 
-<sub>Building security systems at the intersection of artificial intelligence, automation, cryptography, and systems engineering.</sub>
+# Connect
 
+<div align="center">
 
-<!--
-**tejasai-bottu/tejasai-bottu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-tejasai--bottu-181717?style=for-the-badge\&logo=github)](https://github.com/tejasai-bottu)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Email:** [TSBOTTU@uncg.edu](mailto:TSBOTTU@uncg.edu)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Security engineering · AI security · cryptography · automation</sub>
+
+</div>
