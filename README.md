@@ -2,276 +2,259 @@
 
 # Bottu Teja Sai
 
-### Cybersecurity · AI Security · Security Automation · Cryptography
+### Cybersecurity · AI Security · Cryptography · Security Automation
 
-**M.S. Information Technology & Management · University of North Carolina Greensboro**
+Building security systems where **AI, automation, and applied security engineering** meet.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tejasai-bottu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)](https://www.docker.com/)
+<a href="https://github.com/tejasai-bottu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:TSBOTTU@uncg.edu">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I build and research security systems at the intersection of **artificial intelligence, cybersecurity, automation, and cryptography**.
+I work on **AI security, automated vulnerability assessment, cryptography, and security tooling**.
 
-My current work focuses on **adversarial LLM evaluation, autonomous vulnerability assessment, security automation, post-quantum cryptography, and applied steganography**.
+My projects explore how traditionally manual security workflows can be transformed into systems that are **automated, reproducible, and intelligent**.
 
-I am particularly interested in turning security workflows that normally require repeated manual analysis into **reproducible, automated, and intelligent systems**.
+Current areas:
 
----
-
-## What I Work On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI Security
-
-* LLM security assessment
-* Adversarial testing
-* Automated vulnerability discovery
-* LLM-driven security agents
-* Local-model security analysis
-* Security report generation
-
-</td>
-<td width="50%" valign="top">
-
-### Cybersecurity
-
-* Web application security
-* Vulnerability assessment
-* Security automation
-* Network security
-* Security-tool orchestration
-* Linux security tooling
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Cryptography
-
-* Applied cryptography
-* Post-quantum cryptography
-* Cryptographic discovery
-* Secure migration
-* Text steganography
-* Zero-width encoding
-
-</td>
-<td width="50%" valign="top">
-
-### Engineering
-
-* Python
-* Docker
-* Microservices
-* Backend systems
-* Git / GitHub
-* Linux / Windows
-
-</td>
-</tr>
-</table>
+`LLM Security` · `Adversarial Testing` · `Security Automation` · `Cryptography` · `PQC` · `Network Security`
 
 ---
 
 # Selected Work
 
-## 01 — Adversarial LLM Security Assessment
+<table>
+<tr>
 
-**Automated vulnerability testing for Large Language Models**
+<td width="50%" valign="top">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![LLM Security](https://img.shields.io/badge/LLM-Security-6f42c1?style=flat-square)](https://github.com/tejasai-bottu)
-[![Security](https://img.shields.io/badge/Domain-AI%20Security-critical?style=flat-square)](https://github.com/tejasai-bottu)
+### 🛡️ AI-GUARDIAN
 
-A research project focused on systematically evaluating Large Language Models through **automated adversarial vulnerability testing**.
+**Secure LLM Defense Framework**
 
-**Core direction**
+<a href="YOUR_AI_GUARDIAN_REPO">
 
-```text
-LLM
- │
- ├── Adversarial Inputs
- │
- ├── Automated Testing
- │
- ├── Vulnerability Analysis
- │
- └── Security Assessment
-          │
-          ▼
-     Structured Findings
-```
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LLM-Security-6f42c1?style=flat-square">
+<img src="https://img.shields.io/badge/Adversarial-Testing-critical?style=flat-square">
 
-**Repository**
+</a>
 
-→ [View project](https://github.com/tejasai-bottu/ADVERSARIAL-SECURITY-ASSESSMENT-OF-LARGE-LANGUAGE-MODELS-THROUGH-AUTOMATED-VULNERABILITY-TESTING)
+A unified framework for evaluating and defending Large Language Models against adversarial attacks.
 
----
+**Focus**
 
-## 02 — Autonomous LLM Security Agent
+`LLM Security` `Adversarial AI` `Defense`
 
-**LLM-driven automated vulnerability assessment**
+<br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![LLM](https://img.shields.io/badge/LLM-Agent-412991?style=flat-square)](https://github.com/tejasai-bottu)
-[![Security Testing](https://img.shields.io/badge/Security-Automation-critical?style=flat-square)](https://github.com/tejasai-bottu)
+<a href="YOUR_AI_GUARDIAN_REPO">→ View repository</a>
 
-An AI-powered security agent designed to automate portions of web application vulnerability assessment.
+</td>
 
-The system combines **security tools + an LLM + structured analysis** to reduce repetitive testing and produce actionable findings.
+<td width="50%" valign="top">
 
-```text
-Target
-  │
-  ▼
-Reconnaissance
-  │
-  ▼
-Security Tools
-  │
-  ▼
-LLM Analysis
-  │
-  ▼
-Findings
-  │
-  ▼
-Security Report
-```
+### 🤖 Autonomous Security Agent
 
-→ [View project](https://github.com/tejasai-bottu/Autonomous-LLM-Driven-Security-Agent-for-Vulnerability-Assessment)
+**LLM-Driven Vulnerability Assessment**
 
----
+<a href="YOUR_AGENT_REPO">
 
-## 03 — Dynamic Pattern-Based Text Steganography
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LLM-Agent-412991?style=flat-square">
+<img src="https://img.shields.io/badge/Security-Automation-critical?style=flat-square">
 
-**Encrypted payloads hidden inside text**
+</a>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Cryptography](https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square)](https://github.com/tejasai-bottu)
-[![AES-256](https://img.shields.io/badge/AES--256-CBC-333333?style=flat-square)](https://github.com/tejasai-bottu)
+An AI-driven security agent that orchestrates security tools and uses an LLM to analyze web application vulnerabilities.
 
-A text-based steganography system that combines encryption with dynamic pattern-based encoding.
+**Focus**
 
-The repository describes hiding encrypted files—including **images, audio, video, and text**—inside text using AES-256-CBC encryption and zero-width Unicode encoding.
+`AI Agents` `Web Security` `Automation`
 
-```text
-Input File
-    │
-    ▼
-Encryption
-    │
-    ▼
-Binary / Payload
-    │
-    ▼
-Dynamic Encoding
-    │
-    ▼
-Text Carrier
-```
+<br>
 
-→ [View project](https://github.com/tejasai-bottu/Dynamic-Pattern-Based-Text-Steganography-with-Advance-Encryption)
+<a href="YOUR_AGENT_REPO">→ View repository</a>
 
----
+</td>
 
-## 04 — Automated Security Testing for No-Code / Low-Code Applications
+</tr>
 
-**Security-tool orchestration + local AI analysis**
+<tr>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-00549E?style=flat-square)](https://www.zaproxy.org/)
-[![Nikto](https://img.shields.io/badge/Nikto-Web%20Scanner-333333?style=flat-square)](https://github.com/sullo/nikto)
-[![SQLmap](https://img.shields.io/badge/SQLmap-SQL%20Testing-333333?style=flat-square)](https://sqlmap.org/)
-[![Gemma](https://img.shields.io/badge/Gemma3-Local%20LLM-4285F4?style=flat-square)](https://ai.google.dev/gemma)
+<td width="50%" valign="top">
 
-Automated security testing workflow for no-code and low-code web applications.
+### 🔐 Dynamic Text Steganography
 
-The system combines multiple security tools and a local AI model to analyze results and generate structured reports.
+**Encrypted Data · Unicode · Steganography**
 
-```text
-                 ┌─────────────┐
-                 │ Web Target  │
-                 └──────┬──────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-       OWASP ZAP       Nikto        SQLmap
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-                 Local AI Analysis
-                        │
-                        ▼
-                Structured Report
-```
+<a href="YOUR_STEGANOGRAPHY_REPO">
 
-→ [View project](https://github.com/tejasai-bottu/Security-Testing-System-for-No-Code-and-Low-Code-Web-Applications)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/AES--256-CBC-333333?style=flat-square">
+
+</a>
+
+A text-based steganography system combining encryption with dynamic encoding techniques for hiding data inside text.
+
+**Focus**
+
+`Cryptography` `Steganography` `Unicode`
+
+<br>
+
+<a href="YOUR_STEGANOGRAPHY_REPO">→ View repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 Automated Security Testing
+
+**Web Application Security + Local AI**
+
+<a href="YOUR_SECURITY_TESTING_REPO">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP-ZAP-00549E?style=flat-square">
+<img src="https://img.shields.io/badge/SQLmap-333333?style=flat-square">
+<img src="https://img.shields.io/badge/Gemma3-4285F4?style=flat-square">
+
+</a>
+
+Automated security testing combining multiple vulnerability scanners with local LLM-based analysis and structured reporting.
+
+**Focus**
+
+`OWASP` `Vulnerability Testing` `AI Analysis`
+
+<br>
+
+<a href="YOUR_SECURITY_TESTING_REPO">→ View repository</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Research
-
-### Publications
-
-| Year | Work                                                                                                 | Venue                                                                     |
-| ---- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2026 | **Adversarial Security Assessment of Large Language Models Through Automated Vulnerability Testing** | Kalinga Conference on Communication & Computing                           |
-| 2025 | **Autonomous LLM-Driven Security Agent**                                                             | International Conference on Data Engineering and Communication Technology |
-| 2026 | **Dynamic Pattern-Based Text Steganography System**                                                  | International Conference on Computing and Communication Technologies      |
-
----
-
-# Technical Stack
+## Security Research
 
 <div align="center">
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-### AI / Security
-
-![LLM](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
-![Adversarial Evaluation](https://img.shields.io/badge/Adversarial%20Evaluation-B71717?style=flat-square)
-![Cryptography](https://img.shields.io/badge/Cryptography-6f42c1?style=flat-square)
-
-### Infrastructure & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
+|          | Research                                                                                             |
+| :------: | :--------------------------------------------------------------------------------------------------- |
+| **2026** | **Adversarial Security Assessment of Large Language Models Through Automated Vulnerability Testing** |
+| **2025** | **Autonomous LLM-Driven Security Agent**                                                             |
+| **2026** | **Dynamic Pattern-Based Text Steganography System**                                                  |
 
 </div>
 
 ---
 
-# GitHub Activity
+# Technical Focus
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### AI Security
+
+`LLM Security`
+
+`Adversarial Evaluation`
+
+`RAG`
+
+`AI Agents`
+
+`Automated Testing`
+
+</td>
+
+<td width="33%" align="center">
+
+### Cybersecurity
+
+`Vulnerability Assessment`
+
+`Web Security`
+
+`Network Security`
+
+`Security Automation`
+
+`Nmap`
+
+`Wireshark`
+
+</td>
+
+<td width="33%" align="center">
+
+### Cryptography
+
+`PQC`
+
+`Applied Cryptography`
+
+`AES`
+
+`Steganography`
+
+`Secure Migration`
+
+`Unicode Encoding`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejasai-bottu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,bash&perline=6" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasai-bottu&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square">
+<img src="https://img.shields.io/badge/SQLmap-333333?style=flat-square">
+
+</div>
+
+---
+
+# GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tejasai-bottu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasai-bottu&layout=compact&hide_border=true&theme=transparent" height="160">
 
 </div>
 
@@ -279,82 +262,69 @@ The system combines multiple security tools and a local AI model to analyze resu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tejasai-bottu&hide_border=true&background=FFFFFF00" height="165"/>
+<img src="https://streak-stats.demolab.com?user=tejasai-bottu&hide_border=true&background=FFFFFF00" height="160">
 
 </div>
 
 ---
 
-# Engineering Direction
+## Contribution Activity
 
-My projects generally explore the same broader problem:
+<div align="center">
 
-> **How can security assessment become more automated, repeatable, and intelligent without removing the security engineer from the decision-making loop?**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasai-bottu&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%">
 
-That leads to three areas I am currently exploring:
+</div>
+
+---
+
+# Research → Engineering
+
+<div align="center">
 
 ```text
-AI Security
-     │
-     ├── Adversarial Evaluation
-     ├── LLM Security
-     └── Autonomous Security Agents
-             │
-             ▼
-Security Automation
-     │
-     ├── Tool Orchestration
-     ├── Vulnerability Assessment
-     └── Automated Reporting
-             │
-             ▼
-Applied Security
-     │
-     ├── Cryptography
-     ├── Post-Quantum Migration
-     └── Secure Systems
+Research
+   │
+   ▼
+Security Problem
+   │
+   ▼
+Prototype
+   │
+   ▼
+Automation
+   │
+   ▼
+Evaluation
+   │
+   ▼
+Engineering
 ```
-
----
-
-# Education
-
-**University of North Carolina Greensboro**
-M.S. Information Technology & Management · 2026–Present
-
-**Velagapudi Ramakrishna Siddhartha Engineering College**
-B.Tech Information Technology · 2022–2026
-
----
-
-# Certifications
-
-`Google` · The Bits and Bytes of Computer Networking
-`Cisco` · CCNA: Intro to Networks
-`IBM` · Getting Started with Git and GitHub
-`Simplilearn` · Kali Linux Basics
-`Udemy` · Linux Commands
-`NPTEL` · Joy of Computing
-`NPTEL` · Social Networking
-
----
-
-# Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-tejasai--bottu-181717?style=for-the-badge\&logo=github)](https://github.com/tejasai-bottu)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-
-**Email:** [TSBOTTU@uncg.edu](mailto:TSBOTTU@uncg.edu)
 
 </div>
 
+I use my repositories as experimental environments for exploring practical security problems and turning research ideas into working systems.
+
 ---
 
 <div align="center">
 
-<sub>Security engineering · AI security · cryptography · automation</sub>
+### Interested in building secure systems for an AI-driven world?
+
+**Let's connect.**
+
+<br>
+
+<a href="https://github.com/tejasai-bottu">
+<img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Cybersecurity · AI Security · Cryptography · Security Automation</sub>
 
 </div>
